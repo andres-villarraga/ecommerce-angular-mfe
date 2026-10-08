@@ -1,0 +1,72 @@
+/* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
+/* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "paths": {
+      "cart-state": ["./projects/cart-state/src/public-api.ts"],
+      "shared-models": ["./projects/shared-models/src/public-api.ts"],
+      "shared-ui": ["./projects/shared-ui/src/public-api.ts"]
+    },
+    "target": "ES2022",
+    "module": "preserve"
+  },
+  "angularCompilerOptions": {
+    "enableI18nLegacyMessageIdFormat": false,
+    "strictInjectionParameters": true,
+    "strictInputAccessModifiers": true
+  },
+  "files": [],
+  "references": [
+    {
+      "path": "./projects/shell/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/shell/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/mfe-catalog/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/mfe-catalog/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/mfe-cart/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/mfe-cart/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/mfe-checkout/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/mfe-checkout/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/shared-models/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/shared-models/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/shared-ui/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/shared-ui/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/cart-state/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/cart-state/tsconfig.spec.json"
+    }
+  ]
+}
