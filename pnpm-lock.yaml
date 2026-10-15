@@ -29,6 +29,9 @@ importers:
       '@angular/router':
         specifier: ^22.2.0
         version: 22.2.1(@angular/common@22.2.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2))(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(@angular/platform-browser@22.2.1(@angular/common@22.2.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2))(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2)))(rxjs@7.8.2)
+      '@ngrx/devtools':
+        specifier: ^1.4.0
+        version: 1.4.0(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(@ngrx/store@22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2))(rxjs@7.8.2)
       '@ngrx/effects':
         specifier: ^22.0.1
         version: 22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(@ngrx/store@22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2))(rxjs@7.8.2)
@@ -895,6 +898,13 @@ packages:
   '@napi-rs/nice@1.1.1':
     resolution: {integrity: sha512-xJIPs+bYuc9ASBl+cvGsKbGrJmS6fAKaSZCnT0lhahT5rhA2VVy9/EcIgd2JhtEuFOJNx7UHNn/qiTPTY4nrQw==}
     engines: {node: '>= 10'}
+
+  '@ngrx/devtools@1.4.0':
+    resolution: {integrity: sha512-2JeKXUystQaG67HFGadAN6/v10EMJyfAmS8jFDYbkQy045/SB4kMjeQzl/qZwVrzGCguJ0A1HZE1zUbcjRdnqw==}
+    peerDependencies:
+      '@angular/core': ^2.0.0-rc.0
+      '@ngrx/store': ^1.5.0
+      rxjs: ^5.0.0-beta.6
 
   '@ngrx/effects@22.0.1':
     resolution: {integrity: sha512-SRI6Q04rJfrf/qUwphzoJU8IJsPAPzP0MmmXK5qbMUuZ24V1JbAyI5+c0bEVzIFMMOooAU7wkO6iuJg5TVjmsw==}
@@ -3406,6 +3416,12 @@ snapshots:
       '@napi-rs/nice-win32-ia32-msvc': 1.1.1
       '@napi-rs/nice-win32-x64-msvc': 1.1.1
     optional: true
+
+  '@ngrx/devtools@1.4.0(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(@ngrx/store@22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2))(rxjs@7.8.2)':
+    dependencies:
+      '@angular/core': 22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2)
+      '@ngrx/store': 22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2)
+      rxjs: 7.8.2
 
   '@ngrx/effects@22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(@ngrx/store@22.0.1(@angular/core@22.2.1(@angular/compiler@22.2.1)(rxjs@7.8.2))(rxjs@7.8.2))(rxjs@7.8.2)':
     dependencies:
