@@ -7,6 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "format": "prettier --write \"projects/**/*.{ts,html,scss,json}\"",
+    "format:check": "prettier --check \"projects/**/*.{ts,html,scss,json}\"",
     "start:all": "concurrently \"pnpm exec ng serve shell\" \"pnpm exec ng serve mfe-cart\" \"pnpm exec ng serve mfe-catalog\" \"pnpm exec ng serve mfe-checkout\""
   },
   "private": true,

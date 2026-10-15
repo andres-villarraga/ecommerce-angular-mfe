@@ -1,7 +1,7 @@
 export type ProductVariant = {
   id: string;
   label: string;
-}
+};
 
 export interface Product {
   id: string;

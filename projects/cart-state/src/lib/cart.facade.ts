@@ -1,8 +1,8 @@
-import { computed, inject, Injectable } from "@angular/core";
-import { Store } from "@ngrx/store";
-import { cartFeature } from "./cart.feature";
-import { CartItem } from "@shell/shared-models";
-import { CartActions } from "./cart.actions";
+import { computed, inject, Injectable } from '@angular/core';
+import { Store } from '@ngrx/store';
+import { cartFeature } from './cart.feature';
+import { CartItem } from '@shell/shared-models';
+import { CartActions } from './cart.actions';
 
 // This facade will provide the methods for external use, hiding all the logic required
 
@@ -16,18 +16,18 @@ export class CartFacade {
   readonly isEmpty = computed(() => this.count() === 0);
 
   add(item: Omit<CartItem, 'quantity'>, quantity = 1) {
-    this.store.dispatch(CartActions.addItem({item, quantity}));
+    this.store.dispatch(CartActions.addItem({ item, quantity }));
   }
 
   remove(id: string) {
-    this.store.dispatch(CartActions.removeItem({id}));
+    this.store.dispatch(CartActions.removeItem({ id }));
   }
 
-  setQuantity(id: string, quantity: number){
+  setQuantity(id: string, quantity: number) {
     this.store.dispatch(CartActions.setQuantity({ id, quantity }));
   }
 
-  clear(){
+  clear() {
     this.store.dispatch(CartActions.clear());
   }
 }

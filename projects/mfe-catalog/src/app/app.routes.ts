@@ -1,6 +1,27 @@
 import { Routes } from '@angular/router';
-import { HomeComponent } from './features/home/home.component';
+import { inject, provideEnvironmentInitializer } from '@angular/core';
 
-export const routes: Routes = [
-  { path: '', component: HomeComponent, pathMatch: 'full' },
+import { provideEffects } from '@ngrx/effects';
+import { provideState } from '@ngrx/store';
+
+import { catalogFeature } from './state/catalog.feature';
+import { CatalogEffects } from './state/catalog.effects';
+import { CatalogLoader } from './state/catalog.loader';
+import { CatalogPageComponent } from './features/catalog-page/catalog-page.component';
+import { ProductDetailComponent } from './features/product-detail/product-detail.component';
+
+export const CATALOG_ROUTES: Routes = [
+  {
+    path: '',
+    providers: [
+      provideState(catalogFeature),
+      provideEffects(CatalogEffects),
+      CatalogLoader,
+      provideEnvironmentInitializer(() => inject(CatalogLoader)),
+    ],
+    children: [
+      { path: '', component: CatalogPageComponent },
+      { path: ':slug', component: ProductDetailComponent },
+    ],
+  },
 ];
