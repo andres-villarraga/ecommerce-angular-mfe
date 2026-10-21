@@ -1,4 +1,4 @@
-import { CartItem } from "@shell/shared-models";
+import { CartItem } from '@shell/shared-models';
 
 const STORAGE_KEY = 'e-commerce-cart';
 
@@ -6,13 +6,13 @@ const STORAGE_KEY = 'e-commerce-cart';
 export const readCart = (): CartItem[] => {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if(!raw) return [];
+    if (!raw) return [];
     const parsed: unknown = JSON.parse(raw);
-    return Array.isArray(parsed) ? parsed.filter(isCartItem): [];
+    return Array.isArray(parsed) ? parsed.filter(isCartItem) : [];
   } catch {
     return [];
   }
-}
+};
 
 // Used to set in the LocalStorage
 export const writeCart = (items: CartItem[]): void => {
@@ -21,7 +21,7 @@ export const writeCart = (items: CartItem[]): void => {
   } catch {
     // Storage
   }
-}
+};
 
 // Check if the data comply with the CartItem interface
 function isCartItem(value: unknown): value is CartItem {
@@ -36,5 +36,5 @@ function isCartItem(value: unknown): value is CartItem {
     Number.isFinite(v.price) &&
     Number.isInteger(v.quantity) &&
     (v.quantity as number) > 0
-  )
+  );
 }

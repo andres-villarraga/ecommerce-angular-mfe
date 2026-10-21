@@ -44,7 +44,9 @@ export const cartFeature = createFeature({
     return {
       selectItems: selectAll,
       selectCount: createSelector(selectAll, (items) => items.reduce((n, i) => n + i.quantity, 0)),
-      selectSubtotal: createSelector(selectAll, (items) => items.reduce((s, i) => s + i.price * i.quantity, 0))
-    }
-  }
+      selectSubtotal: createSelector(selectAll, (items) =>
+        items.reduce((s, i) => s + i.price * i.quantity, 0),
+      ),
+    };
+  },
 });
