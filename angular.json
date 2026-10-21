@@ -5,6 +5,16 @@
     "packageManager": "pnpm"
   },
   "newProjectRoot": "projects",
+  "schematics": {
+    "@schematics/angular:component": { "type": "component" },
+    "@schematics/angular:directive": { "type": "directive" },
+    "@schematics/angular:service": { "type": "service" },
+    "@schematics/angular:guard": { "typeSeparator": "." },
+    "@schematics/angular:interceptor": { "typeSeparator": "." },
+    "@schematics/angular:module": { "typeSeparator": "." },
+    "@schematics/angular:pipe": { "typeSeparator": "." },
+    "@schematics/angular:resolver": { "typeSeparator": "." }
+  },
   "projects": {
     "shell": {
       "projectType": "application",
@@ -61,7 +71,7 @@
                 "input": "projects/shell/public"
               }
             ],
-            "styles": ["projects/shell/src/styles.scss"],
+            "styles": ["projects/shell/src/styles.scss", "projects/shared-ui/src/styles/tokens.css"],
             "polyfills": ["es-module-shims"]
           },
           "configurations": {
@@ -160,7 +170,7 @@
                 "input": "projects/mfe-catalog/public"
               }
             ],
-            "styles": ["projects/mfe-catalog/src/styles.scss"],
+            "styles": ["projects/mfe-catalog/src/styles.scss", "projects/shared-ui/src/styles/tokens.css"],
             "polyfills": ["es-module-shims"]
           },
           "configurations": {
@@ -259,7 +269,7 @@
                 "input": "projects/mfe-cart/public"
               }
             ],
-            "styles": ["projects/mfe-cart/src/styles.scss"],
+            "styles": ["projects/mfe-cart/src/styles.scss", "projects/shared-ui/src/styles/tokens.css"],
             "polyfills": ["es-module-shims"]
           },
           "configurations": {
@@ -358,7 +368,7 @@
                 "input": "projects/mfe-checkout/public"
               }
             ],
-            "styles": ["projects/mfe-checkout/src/styles.scss"],
+            "styles": ["projects/mfe-checkout/src/styles.scss", "projects/shared-ui/src/styles/tokens.css"],
             "polyfills": ["es-module-shims"]
           },
           "configurations": {
@@ -432,7 +442,7 @@
       "projectType": "library",
       "root": "projects/shared-ui",
       "sourceRoot": "projects/shared-ui/src",
-      "prefix": "lib",
+      "prefix": "ecom",
       "architect": {
         "build": {
           "builder": "@angular/build:ng-packagr",

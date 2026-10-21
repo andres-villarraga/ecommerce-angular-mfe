@@ -1,10 +1,13 @@
-import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
+import { ButtonComponent } from "@shell/shared-ui";
+
 
 @Component({
-  imports: [],
+  imports: [ButtonComponent],
   standalone: true,
   selector: 'app-home.component',
   styleUrl: './home.component.scss',
   templateUrl: './home.component.html',
 })
-export class HomeComponent {}
+export class HomeComponent {
+}

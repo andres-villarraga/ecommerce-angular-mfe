@@ -1,0 +1,18 @@
+@let data = this.product();
+
+<div class="products-container">
+  <section class="image-container">
+    <img [ngSrc]="data.images[2]" alt="image-product" width="197" height="197" [priority]="priority()">
+  </section>
+  <section>
+    <h3>{{ data.name }}</h3>
+    <p>{{ data.category }}</p>
+    <!-- <ecom-rate></ecom-rate> -->
+    <h3>{{ data.price }}</h3>
+  </section>
+  <section>
+    <button ecomButton>
+      Add to Card
+    </button>
+  </section>
+</div>
