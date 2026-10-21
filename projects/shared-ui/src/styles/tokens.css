@@ -1,0 +1,12 @@
+:root {
+  --ecom-color-bg: #f6f1e9;
+  --ecom-color-text: #2b1d14;
+  --ecom-color-surface: #e7ded0;
+  --ecom-color-primary: #2f5d50;
+  --ecom-color-primary-hover: #264d42;
+  --ecom-color-on-primary: #ffffff;
+  --ecom-color-accent: #c8643b;
+  --ecom-color-danger: #b3261e;
+  --ecom-color-focus: #c8643b;
+  --ecom-radius-md: 8px;
+}

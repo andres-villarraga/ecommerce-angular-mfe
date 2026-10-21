@@ -14,7 +14,7 @@
     "paths": {
       "@shell/cart-state": ["./projects/cart-state/src/index.ts"],
       "@shell/shared-models": ["./projects/shared-models/src/index.ts"],
-      "@shell/shared-ui": ["./projects/shared-ui/src/public-api.ts"]
+      "@shell/shared-ui": ["./projects/shared-ui/src/index.ts"]
     },
     "target": "ES2022",
     "module": "preserve"

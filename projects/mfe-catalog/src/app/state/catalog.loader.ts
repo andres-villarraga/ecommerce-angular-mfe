@@ -7,7 +7,7 @@ import { CatalogApiActions } from './catalog.actions';
 @Injectable()
 export class CatalogLoader {
   private store = inject(Store);
-  private resource = httpResource<Product[]>(() => '/data/products.json');
+  private resource = httpResource<Product[]>(() => '/products.json');
 
   constructor() {
     effect(() => {

@@ -1,4 +1,4 @@
-import { inject, Injectable } from '@angular/core';
+import { computed, inject, Injectable } from '@angular/core';
 import { catalogFeature } from './catalog.feature';
 import {
   selectCategoryCounts,
@@ -18,6 +18,8 @@ export class CatalogFacade {
   readonly categoryCounts = this.store.selectSignal(selectCategoryCounts);
   readonly status = this.store.selectSignal(catalogFeature.selectStatus);
   readonly current = this.store.selectSignal(selectCurrentProducts);
+  readonly isLoading = computed(() => this.status() === 'loading');
+  readonly hasError = computed(() => this.status() === 'error');
 
   setFilters(changes: Partial<Record<string, string | null>>) {
     this.store.dispatch(CatalogPageActions.filterChanged({ changes }));

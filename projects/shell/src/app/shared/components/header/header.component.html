@@ -1,0 +1,29 @@
+<header>
+  <h1>
+    E-commerce
+  </h1>
+  <nav>
+    <ul class="navbar-list">
+      @for (tab of tabs; track tab.id) {
+      <li
+        class="navbar-list__item"
+        [class]="{ 'active': activeTab() === tab.name.toLowerCase()}"
+        (click)="activeTab() === tab.name.toLowerCase() || redirectTo(tab.location)"
+      >
+        <span>{{ tab.name }}</span>
+      </li>
+      }
+    </ul>
+  </nav>
+  <div class="search-bar">
+    <ecomInputSearch placeholder="Search for products..."></ecomInputSearch>
+  </div>
+  <div class="actions-section">
+    <button ecomButton variant="ghost">
+      <ecom-icon name="user" class="cursorPointer"></ecom-icon>
+    </button>
+    <button ecomButton variant="ghost">
+      <ecom-icon name="cart" class="cursorPointer"></ecom-icon>
+    </button>
+  </div>
+</header>

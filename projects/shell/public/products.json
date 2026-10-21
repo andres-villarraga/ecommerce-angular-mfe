@@ -1,0 +1,5924 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "nova-x-smartphone",
+    "name": "Nova X Smartphone",
+    "category": "Electronics",
+    "price": 699.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 161,
+    "tags": [
+      "electronics",
+      "smartphone",
+      "mobile",
+      "camera",
+      "daily-use"
+    ],
+    "stock": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "128gb",
+        "label": "128 GB"
+      },
+      {
+        "id": "256gb",
+        "label": "256 GB"
+      },
+      {
+        "id": "512gb",
+        "label": "512 GB"
+      }
+    ],
+    "description": "A fast everyday smartphone with a bright display, dependable battery life, and a versatile camera system."
+  },
+  {
+    "id": "prod-002",
+    "slug": "vista-11-tablet",
+    "name": "Vista 11 Tablet",
+    "category": "Electronics",
+    "price": 429.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 298,
+    "tags": [
+      "electronics",
+      "tablet",
+      "portable",
+      "touchscreen",
+      "entertainment"
+    ],
+    "stock": 34,
+    "images": [
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "128gb",
+        "label": "128 GB"
+      },
+      {
+        "id": "256gb",
+        "label": "256 GB"
+      },
+      {
+        "id": "512gb",
+        "label": "512 GB"
+      }
+    ],
+    "description": "A slim tablet for reading, streaming, sketching, and handling lightweight work while travelling."
+  },
+  {
+    "id": "prod-003",
+    "slug": "aerobook-14-laptop",
+    "name": "AeroBook 14 Laptop",
+    "category": "Electronics",
+    "price": 1099.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 435,
+    "tags": [
+      "electronics",
+      "laptop",
+      "productivity",
+      "portable",
+      "work"
+    ],
+    "stock": 51,
+    "images": [
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "128gb",
+        "label": "128 GB"
+      },
+      {
+        "id": "256gb",
+        "label": "256 GB"
+      },
+      {
+        "id": "512gb",
+        "label": "512 GB"
+      }
+    ],
+    "description": "A lightweight laptop designed for multitasking, video calls, and productive work on the go."
+  },
+  {
+    "id": "prod-004",
+    "slug": "quietwave-anc-headphones",
+    "name": "QuietWave ANC Headphones",
+    "category": "Electronics",
+    "price": 179.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 572,
+    "tags": [
+      "electronics",
+      "headphones",
+      "wireless",
+      "audio",
+      "noise-cancelling"
+    ],
+    "stock": 68,
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "128gb",
+        "label": "128 GB"
+      },
+      {
+        "id": "256gb",
+        "label": "256 GB"
+      },
+      {
+        "id": "512gb",
+        "label": "512 GB"
+      }
+    ],
+    "description": "Over-ear wireless headphones with active noise cancellation and a comfortable fit for long listening sessions."
+  },
+  {
+    "id": "prod-005",
+    "slug": "pulse-mini-earbuds",
+    "name": "Pulse Mini Earbuds",
+    "category": "Electronics",
+    "price": 89.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 709,
+    "tags": [
+      "electronics",
+      "earbuds",
+      "wireless",
+      "audio",
+      "commute"
+    ],
+    "stock": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "Compact true-wireless earbuds with a pocket-friendly case and clear sound for commutes and workouts."
+  },
+  {
+    "id": "prod-006",
+    "slug": "orbit-smartwatch",
+    "name": "Orbit Smartwatch",
+    "category": "Electronics",
+    "price": 219.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 846,
+    "tags": [
+      "electronics",
+      "smartwatch",
+      "wearable",
+      "fitness",
+      "notifications"
+    ],
+    "stock": 102,
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "40mm",
+        "label": "40 mm"
+      },
+      {
+        "id": "44mm",
+        "label": "44 mm"
+      }
+    ],
+    "description": "A versatile smartwatch for activity tracking, notifications, and quick access to everyday essentials."
+  },
+  {
+    "id": "prod-007",
+    "slug": "roam-bluetooth-speaker",
+    "name": "Roam Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 79.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 983,
+    "tags": [
+      "electronics",
+      "speaker",
+      "bluetooth",
+      "portable",
+      "audio"
+    ],
+    "stock": 119,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A portable speaker with room-filling sound for desks, picnics, and small gatherings."
+  },
+  {
+    "id": "prod-008",
+    "slug": "forge-mechanical-keyboard",
+    "name": "Forge Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 119.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1120,
+    "tags": [
+      "electronics",
+      "keyboard",
+      "mechanical",
+      "typing",
+      "gaming"
+    ],
+    "stock": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "linear",
+        "label": "Linear switches"
+      },
+      {
+        "id": "tactile",
+        "label": "Tactile switches"
+      }
+    ],
+    "description": "A responsive mechanical keyboard with tactile feedback for extended typing and gaming sessions."
+  },
+  {
+    "id": "prod-009",
+    "slug": "align-wireless-mouse",
+    "name": "Align Wireless Mouse",
+    "category": "Electronics",
+    "price": 49.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1257,
+    "tags": [
+      "electronics",
+      "mouse",
+      "wireless",
+      "ergonomic",
+      "office"
+    ],
+    "stock": 27,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "An ergonomic wireless mouse with precise tracking for a tidy and comfortable desk setup."
+  },
+  {
+    "id": "prod-010",
+    "slug": "clarity-27-inch-monitor",
+    "name": "Clarity 27-inch Monitor",
+    "category": "Electronics",
+    "price": 289.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1394,
+    "tags": [
+      "electronics",
+      "monitor",
+      "display",
+      "desk",
+      "productivity"
+    ],
+    "stock": 44,
+    "images": [
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A spacious monitor for clearer multitasking, detailed creative work, and comfortable home-office use."
+  },
+  {
+    "id": "prod-011",
+    "slug": "focus-4k-webcam",
+    "name": "Focus 4K Webcam",
+    "category": "Electronics",
+    "price": 99.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 1531,
+    "tags": [
+      "electronics",
+      "webcam",
+      "video-conferencing",
+      "streaming"
+    ],
+    "stock": 61,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A high-resolution webcam that helps deliver crisp video for meetings, classes, and streaming."
+  },
+  {
+    "id": "prod-012",
+    "slug": "swift-usb-c-charger",
+    "name": "Swift USB-C Charger",
+    "category": "Electronics",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 1668,
+    "tags": [
+      "electronics",
+      "charger",
+      "usb-c",
+      "fast-charging",
+      "travel"
+    ],
+    "stock": 78,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A compact USB-C wall charger for powering compatible phones, tablets, and small everyday devices."
+  },
+  {
+    "id": "prod-013",
+    "slug": "enduro-power-bank",
+    "name": "Enduro Power Bank",
+    "category": "Electronics",
+    "price": 59.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 1805,
+    "tags": [
+      "electronics",
+      "power-bank",
+      "portable",
+      "charging",
+      "travel"
+    ],
+    "stock": 95,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A high-capacity portable battery that helps keep compatible devices powered during busy days away from an outlet."
+  },
+  {
+    "id": "prod-014",
+    "slug": "vault-portable-ssd-1tb",
+    "name": "Vault Portable SSD 1TB",
+    "category": "Electronics",
+    "price": 129.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 1942,
+    "tags": [
+      "electronics",
+      "ssd",
+      "storage",
+      "backup",
+      "portable"
+    ],
+    "stock": 112,
+    "images": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "128gb",
+        "label": "128 GB"
+      },
+      {
+        "id": "256gb",
+        "label": "256 GB"
+      },
+      {
+        "id": "512gb",
+        "label": "512 GB"
+      }
+    ],
+    "description": "A compact solid-state drive for carrying project files, photos, and backups between workspaces."
+  },
+  {
+    "id": "prod-015",
+    "slug": "sketch-active-stylus",
+    "name": "Sketch Active Stylus",
+    "category": "Electronics",
+    "price": 69.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 2079,
+    "tags": [
+      "electronics",
+      "stylus",
+      "drawing",
+      "tablet",
+      "notes"
+    ],
+    "stock": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "silver",
+        "label": "Silver"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A precision stylus for handwritten notes, annotations, and digital illustration on compatible touchscreens."
+  },
+  {
+    "id": "prod-016",
+    "slug": "everyday-cotton-t-shirt",
+    "name": "Everyday Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 2216,
+    "tags": [
+      "clothing",
+      "t-shirt",
+      "cotton",
+      "basics",
+      "casual"
+    ],
+    "stock": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A soft cotton crew-neck tee with a clean silhouette that layers easily through the week."
+  },
+  {
+    "id": "prod-017",
+    "slug": "harbor-oxford-polo",
+    "name": "Harbor Oxford Polo",
+    "category": "Clothing",
+    "price": 39.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 2353,
+    "tags": [
+      "clothing",
+      "polo",
+      "shirt",
+      "smart-casual",
+      "breathable"
+    ],
+    "stock": 37,
+    "images": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A smart-casual polo with a structured collar and breathable fabric for workdays and weekends."
+  },
+  {
+    "id": "prod-018",
+    "slug": "linen-button-down-shirt",
+    "name": "Linen Button-Down Shirt",
+    "category": "Clothing",
+    "price": 54.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 110,
+    "tags": [
+      "clothing",
+      "shirt",
+      "linen",
+      "summer",
+      "lightweight"
+    ],
+    "stock": 54,
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A relaxed linen-blend shirt that feels light in warm weather and pairs easily with tailored or casual bottoms."
+  },
+  {
+    "id": "prod-019",
+    "slug": "trail-zip-hoodie",
+    "name": "Trail Zip Hoodie",
+    "category": "Clothing",
+    "price": 58.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 247,
+    "tags": [
+      "clothing",
+      "hoodie",
+      "layering",
+      "casual",
+      "fleece"
+    ],
+    "stock": 71,
+    "images": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A versatile zip hoodie with a soft interior and practical pockets for layering before or after activity."
+  },
+  {
+    "id": "prod-020",
+    "slug": "merino-knit-sweater",
+    "name": "Merino Knit Sweater",
+    "category": "Clothing",
+    "price": 89.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 384,
+    "tags": [
+      "clothing",
+      "sweater",
+      "knit",
+      "merino",
+      "layering"
+    ],
+    "stock": 88,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A fine-gauge merino-blend sweater with a refined drape for cooler days and layered outfits."
+  },
+  {
+    "id": "prod-021",
+    "slug": "utility-field-jacket",
+    "name": "Utility Field Jacket",
+    "category": "Clothing",
+    "price": 119.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 521,
+    "tags": [
+      "clothing",
+      "jacket",
+      "utility",
+      "outerwear",
+      "durable"
+    ],
+    "stock": 105,
+    "images": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A durable everyday jacket with a practical pocket layout and an easy fit for transitional weather."
+  },
+  {
+    "id": "prod-022",
+    "slug": "straight-leg-denim-jeans",
+    "name": "Straight-Leg Denim Jeans",
+    "category": "Clothing",
+    "price": 64.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 658,
+    "tags": [
+      "clothing",
+      "jeans",
+      "denim",
+      "everyday",
+      "classic"
+    ],
+    "stock": 122,
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "Classic straight-leg jeans made for everyday wear, with a comfortable rise and timeless denim finish."
+  },
+  {
+    "id": "prod-023",
+    "slug": "relaxed-chino-trousers",
+    "name": "Relaxed Chino Trousers",
+    "category": "Clothing",
+    "price": 59.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 795,
+    "tags": [
+      "clothing",
+      "chinos",
+      "trousers",
+      "twill",
+      "smart-casual"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "Soft twill chinos with a relaxed cut that works with sneakers, loafers, or a more polished shirt."
+  },
+  {
+    "id": "prod-024",
+    "slug": "luna-midi-dress",
+    "name": "Luna Midi Dress",
+    "category": "Clothing",
+    "price": 79.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 932,
+    "tags": [
+      "clothing",
+      "dress",
+      "midi",
+      "versatile",
+      "occasion"
+    ],
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A versatile midi dress with a fluid shape for casual outings, dinners, and dressed-up occasions."
+  },
+  {
+    "id": "prod-025",
+    "slug": "pleated-everyday-skirt",
+    "name": "Pleated Everyday Skirt",
+    "category": "Clothing",
+    "price": 48.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 1069,
+    "tags": [
+      "clothing",
+      "skirt",
+      "pleated",
+      "lightweight",
+      "fashion"
+    ],
+    "stock": 47,
+    "images": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A lightweight pleated skirt that moves easily and pairs with tees, knitwear, or a fitted blouse."
+  },
+  {
+    "id": "prod-026",
+    "slug": "core-compression-leggings",
+    "name": "Core Compression Leggings",
+    "category": "Clothing",
+    "price": 44.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 1206,
+    "tags": [
+      "clothing",
+      "leggings",
+      "activewear",
+      "stretch",
+      "training"
+    ],
+    "stock": 64,
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "Stretch performance leggings with a supportive high-rise waistband for training or comfortable daily wear."
+  },
+  {
+    "id": "prod-027",
+    "slug": "sprint-training-shorts",
+    "name": "Sprint Training Shorts",
+    "category": "Clothing",
+    "price": 32.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 1343,
+    "tags": [
+      "clothing",
+      "shorts",
+      "training",
+      "activewear",
+      "breathable"
+    ],
+    "stock": 81,
+    "images": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "Lightweight training shorts designed for unrestricted movement and breathable comfort during workouts."
+  },
+  {
+    "id": "prod-028",
+    "slug": "heritage-wool-overcoat",
+    "name": "Heritage Wool Overcoat",
+    "category": "Clothing",
+    "price": 189.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1480,
+    "tags": [
+      "clothing",
+      "coat",
+      "wool",
+      "winter",
+      "tailored"
+    ],
+    "stock": 98,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A tailored wool-blend overcoat that adds a polished layer for cold-weather commutes and occasions."
+  },
+  {
+    "id": "prod-029",
+    "slug": "motion-performance-top",
+    "name": "Motion Performance Top",
+    "category": "Clothing",
+    "price": 36.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1617,
+    "tags": [
+      "clothing",
+      "activewear",
+      "running",
+      "moisture-wicking"
+    ],
+    "stock": 115,
+    "images": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "A sweat-wicking athletic top with a smooth feel for running, gym sessions, and outdoor training."
+  },
+  {
+    "id": "prod-030",
+    "slug": "breeze-linen-trousers",
+    "name": "Breeze Linen Trousers",
+    "category": "Clothing",
+    "price": 62.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1754,
+    "tags": [
+      "clothing",
+      "trousers",
+      "linen",
+      "summer",
+      "travel"
+    ],
+    "stock": 6,
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "xs",
+        "label": "XS"
+      },
+      {
+        "id": "s",
+        "label": "S"
+      },
+      {
+        "id": "m",
+        "label": "M"
+      },
+      {
+        "id": "l",
+        "label": "L"
+      },
+      {
+        "id": "xl",
+        "label": "XL"
+      }
+    ],
+    "description": "Airy linen-blend trousers with an easy drape for warm-weather travel and relaxed everyday outfits."
+  },
+  {
+    "id": "prod-031",
+    "slug": "stride-running-sneakers",
+    "name": "Stride Running Sneakers",
+    "category": "Footwear",
+    "price": 94.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 1891,
+    "tags": [
+      "footwear",
+      "sneakers",
+      "running",
+      "cushion",
+      "sports"
+    ],
+    "stock": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Cushioned running sneakers designed for daily miles, gym warmups, and comfortable all-day wear."
+  },
+  {
+    "id": "prod-032",
+    "slug": "metro-leather-sneakers",
+    "name": "Metro Leather Sneakers",
+    "category": "Footwear",
+    "price": 109.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 2028,
+    "tags": [
+      "footwear",
+      "sneakers",
+      "leather",
+      "casual",
+      "minimalist"
+    ],
+    "stock": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Minimal leather sneakers with a clean profile that works with denim, chinos, and relaxed tailoring."
+  },
+  {
+    "id": "prod-033",
+    "slug": "penny-leather-loafers",
+    "name": "Penny Leather Loafers",
+    "category": "Footwear",
+    "price": 119.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 2165,
+    "tags": [
+      "footwear",
+      "loafers",
+      "leather",
+      "dress",
+      "smart-casual"
+    ],
+    "stock": 57,
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Classic penny loafers with a streamlined shape for smart-casual outfits and office days."
+  },
+  {
+    "id": "prod-034",
+    "slug": "cove-chelsea-boots",
+    "name": "Cove Chelsea Boots",
+    "category": "Footwear",
+    "price": 139.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 2302,
+    "tags": [
+      "footwear",
+      "boots",
+      "chelsea",
+      "leather",
+      "everyday"
+    ],
+    "stock": 74,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Easy-on Chelsea boots with a sturdy sole and versatile shape for everyday city wear."
+  },
+  {
+    "id": "prod-035",
+    "slug": "summit-hiking-boots",
+    "name": "Summit Hiking Boots",
+    "category": "Footwear",
+    "price": 149.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 59,
+    "tags": [
+      "footwear",
+      "hiking",
+      "boots",
+      "outdoor",
+      "traction"
+    ],
+    "stock": 91,
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Supportive hiking boots with a grippy outsole for day trails and changing outdoor conditions."
+  },
+  {
+    "id": "prod-036",
+    "slug": "soleil-leather-sandals",
+    "name": "Soleil Leather Sandals",
+    "category": "Footwear",
+    "price": 69.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 196,
+    "tags": [
+      "footwear",
+      "sandals",
+      "leather",
+      "summer",
+      "travel"
+    ],
+    "stock": 108,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Comfortable leather sandals with adjustable straps for warm days, travel, and weekend walks."
+  },
+  {
+    "id": "prod-037",
+    "slug": "mila-block-heel-pumps",
+    "name": "Mila Block-Heel Pumps",
+    "category": "Footwear",
+    "price": 99.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 333,
+    "tags": [
+      "footwear",
+      "heels",
+      "pumps",
+      "formal",
+      "occasion"
+    ],
+    "stock": 125,
+    "images": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Block-heel pumps that balance a polished look with a stable feel for events and office wear."
+  },
+  {
+    "id": "prod-038",
+    "slug": "cloud-ballet-flats",
+    "name": "Cloud Ballet Flats",
+    "category": "Footwear",
+    "price": 64.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 470,
+    "tags": [
+      "footwear",
+      "flats",
+      "ballet",
+      "lightweight",
+      "classic"
+    ],
+    "stock": 16,
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Flexible ballet flats with a simple silhouette for commuting, travel, and everyday outfits."
+  },
+  {
+    "id": "prod-039",
+    "slug": "canvas-high-top-sneakers",
+    "name": "Canvas High-Top Sneakers",
+    "category": "Footwear",
+    "price": 58.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 607,
+    "tags": [
+      "footwear",
+      "sneakers",
+      "canvas",
+      "high-top",
+      "casual"
+    ],
+    "stock": 33,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Canvas high-tops with a casual profile and ankle coverage for relaxed everyday styling."
+  },
+  {
+    "id": "prod-040",
+    "slug": "cross-train-pro-shoes",
+    "name": "Cross-Train Pro Shoes",
+    "category": "Footwear",
+    "price": 104.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 744,
+    "tags": [
+      "footwear",
+      "training",
+      "shoes",
+      "gym",
+      "cross-training"
+    ],
+    "stock": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Stable training shoes built for gym circuits, strength sessions, and lateral movement."
+  },
+  {
+    "id": "prod-041",
+    "slug": "ridge-trail-runners",
+    "name": "Ridge Trail Runners",
+    "category": "Footwear",
+    "price": 114.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 881,
+    "tags": [
+      "footwear",
+      "trail-running",
+      "shoes",
+      "outdoor",
+      "grip"
+    ],
+    "stock": 67,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Lightweight trail shoes with a rugged outsole for uneven paths and weekend outdoor runs."
+  },
+  {
+    "id": "prod-042",
+    "slug": "classic-derby-shoes",
+    "name": "Classic Derby Shoes",
+    "category": "Footwear",
+    "price": 129.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 1018,
+    "tags": [
+      "footwear",
+      "derby",
+      "dress",
+      "shoes",
+      "formal",
+      "leather"
+    ],
+    "stock": 84,
+    "images": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Polished derby shoes with a timeless lace-up profile for formal outfits and special occasions."
+  },
+  {
+    "id": "prod-043",
+    "slug": "easyday-slip-on-sneakers",
+    "name": "EasyDay Slip-On Sneakers",
+    "category": "Footwear",
+    "price": 54.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 1155,
+    "tags": [
+      "footwear",
+      "slip-on",
+      "sneakers",
+      "casual",
+      "travel"
+    ],
+    "stock": 101,
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Convenient slip-on sneakers with a flexible upper for errands, travel days, and casual plans."
+  },
+  {
+    "id": "prod-044",
+    "slug": "rainguard-rain-boots",
+    "name": "RainGuard Rain Boots",
+    "category": "Footwear",
+    "price": 72.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 1292,
+    "tags": [
+      "footwear",
+      "rain-boots",
+      "waterproof",
+      "weather",
+      "outdoor"
+    ],
+    "stock": 118,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Water-resistant rain boots with a practical tread for wet commutes and muddy weekend walks."
+  },
+  {
+    "id": "prod-045",
+    "slug": "restore-recovery-slides",
+    "name": "Restore Recovery Slides",
+    "category": "Footwear",
+    "price": 39.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 1429,
+    "tags": [
+      "footwear",
+      "slides",
+      "recovery",
+      "comfort",
+      "casual"
+    ],
+    "stock": 9,
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "us-7",
+        "label": "US 7"
+      },
+      {
+        "id": "us-8",
+        "label": "US 8"
+      },
+      {
+        "id": "us-9",
+        "label": "US 9"
+      },
+      {
+        "id": "us-10",
+        "label": "US 10"
+      },
+      {
+        "id": "us-11",
+        "label": "US 11"
+      }
+    ],
+    "description": "Soft recovery slides for relaxing at home, post-workout comfort, and quick trips outside."
+  },
+  {
+    "id": "prod-046",
+    "slug": "commuter-laptop-backpack",
+    "name": "Commuter Laptop Backpack",
+    "category": "Bags & Accessories",
+    "price": 89.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 1566,
+    "tags": [
+      "bags-accessories",
+      "backpack",
+      "laptop",
+      "commuter",
+      "organization"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A streamlined backpack with padded laptop storage and organized pockets for commuting or campus days."
+  },
+  {
+    "id": "prod-047",
+    "slug": "market-canvas-tote",
+    "name": "Market Canvas Tote",
+    "category": "Bags & Accessories",
+    "price": 28.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 1703,
+    "tags": [
+      "bags-accessories",
+      "tote",
+      "canvas",
+      "reusable",
+      "everyday"
+    ],
+    "stock": 43,
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A reusable canvas tote with generous room for daily essentials, books, and quick grocery trips."
+  },
+  {
+    "id": "prod-048",
+    "slug": "crossbody-everyday-bag",
+    "name": "Crossbody Everyday Bag",
+    "category": "Bags & Accessories",
+    "price": 59.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1840,
+    "tags": [
+      "bags-accessories",
+      "crossbody",
+      "bag",
+      "compact",
+      "everyday"
+    ],
+    "stock": 60,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A compact crossbody bag that keeps essentials close while leaving hands free on busy days."
+  },
+  {
+    "id": "prod-049",
+    "slug": "structured-mini-handbag",
+    "name": "Structured Mini Handbag",
+    "category": "Bags & Accessories",
+    "price": 94.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1977,
+    "tags": [
+      "bags-accessories",
+      "handbag",
+      "structured",
+      "fashion",
+      "occasion"
+    ],
+    "stock": 77,
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A structured handbag with a refined shape that transitions easily from daytime plans to dinner."
+  },
+  {
+    "id": "prod-050",
+    "slug": "full-grain-leather-wallet",
+    "name": "Full-Grain Leather Wallet",
+    "category": "Bags & Accessories",
+    "price": 49.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 2114,
+    "tags": [
+      "bags-accessories",
+      "wallet",
+      "leather",
+      "cards",
+      "minimal"
+    ],
+    "stock": 94,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A slim leather wallet with practical card slots and a compact profile for everyday carry."
+  },
+  {
+    "id": "prod-051",
+    "slug": "reversible-everyday-belt",
+    "name": "Reversible Everyday Belt",
+    "category": "Bags & Accessories",
+    "price": 34.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 2251,
+    "tags": [
+      "bags-accessories",
+      "belt",
+      "reversible",
+      "wardrobe",
+      "accessory"
+    ],
+    "stock": 111,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A reversible belt with two versatile finishes for pairing with casual and smart-casual outfits."
+  },
+  {
+    "id": "prod-052",
+    "slug": "polarized-wayfarer-sunglasses",
+    "name": "Polarized Wayfarer Sunglasses",
+    "category": "Bags & Accessories",
+    "price": 45.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 2388,
+    "tags": [
+      "bags-accessories",
+      "sunglasses",
+      "polarized",
+      "travel",
+      "summer"
+    ],
+    "stock": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black frame"
+      },
+      {
+        "id": "tortoise",
+        "label": "Tortoise frame"
+      },
+      {
+        "id": "clear",
+        "label": "Clear frame"
+      }
+    ],
+    "description": "Classic polarized sunglasses designed to reduce glare and finish off warm-weather outfits."
+  },
+  {
+    "id": "prod-053",
+    "slug": "weekend-baseball-cap",
+    "name": "Weekend Baseball Cap",
+    "category": "Bags & Accessories",
+    "price": 22.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 145,
+    "tags": [
+      "bags-accessories",
+      "cap",
+      "baseball",
+      "adjustable",
+      "casual"
+    ],
+    "stock": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A low-profile baseball cap with an adjustable closure for everyday sun coverage and casual styling."
+  },
+  {
+    "id": "prod-054",
+    "slug": "ribbed-knit-beanie",
+    "name": "Ribbed Knit Beanie",
+    "category": "Bags & Accessories",
+    "price": 26.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 282,
+    "tags": [
+      "bags-accessories",
+      "beanie",
+      "knit",
+      "winter",
+      "warm"
+    ],
+    "stock": 36,
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A soft ribbed beanie that adds a warm, easy layer for cold commutes and outdoor walks."
+  },
+  {
+    "id": "prod-055",
+    "slug": "soft-wool-blend-scarf",
+    "name": "Soft Wool Blend Scarf",
+    "category": "Bags & Accessories",
+    "price": 38.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 419,
+    "tags": [
+      "bags-accessories",
+      "scarf",
+      "wool",
+      "winter",
+      "accessory"
+    ],
+    "stock": 53,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A cozy wool-blend scarf with a classic texture that layers neatly over coats and sweaters."
+  },
+  {
+    "id": "prod-056",
+    "slug": "weekender-travel-duffel",
+    "name": "Weekender Travel Duffel",
+    "category": "Bags & Accessories",
+    "price": 79.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 556,
+    "tags": [
+      "bags-accessories",
+      "duffel",
+      "travel",
+      "weekend",
+      "gym"
+    ],
+    "stock": 70,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A roomy weekender duffel with grab handles and organized storage for short trips and gym days."
+  },
+  {
+    "id": "prod-057",
+    "slug": "padded-laptop-sleeve",
+    "name": "Padded Laptop Sleeve",
+    "category": "Bags & Accessories",
+    "price": 32.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 693,
+    "tags": [
+      "bags-accessories",
+      "laptop-sleeve",
+      "protective",
+      "work",
+      "travel"
+    ],
+    "stock": 87,
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A protective padded sleeve that helps keep a laptop separate from other items in a backpack or tote."
+  },
+  {
+    "id": "prod-058",
+    "slug": "minimal-card-holder",
+    "name": "Minimal Card Holder",
+    "category": "Bags & Accessories",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 830,
+    "tags": [
+      "bags-accessories",
+      "card-holder",
+      "minimal",
+      "leather",
+      "everyday"
+    ],
+    "stock": 104,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A compact card holder for carrying essential cards without the bulk of a full-size wallet."
+  },
+  {
+    "id": "prod-059",
+    "slug": "quick-release-watch-strap",
+    "name": "Quick-Release Watch Strap",
+    "category": "Bags & Accessories",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 967,
+    "tags": [
+      "bags-accessories",
+      "watch-strap",
+      "replacement",
+      "accessory"
+    ],
+    "stock": 121,
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "tan",
+        "label": "Tan"
+      },
+      {
+        "id": "olive",
+        "label": "Olive"
+      }
+    ],
+    "description": "A quick-release replacement strap that makes it simple to refresh the look of a compatible watch."
+  },
+  {
+    "id": "prod-060",
+    "slug": "packing-cube-organizer-set",
+    "name": "Packing Cube Organizer Set",
+    "category": "Bags & Accessories",
+    "price": 35.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1104,
+    "tags": [
+      "bags-accessories",
+      "packing-cubes",
+      "travel",
+      "luggage",
+      "organizer"
+    ],
+    "stock": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "3-piece",
+        "label": "3-piece set"
+      },
+      {
+        "id": "5-piece",
+        "label": "5-piece set"
+      }
+    ],
+    "description": "A set of lightweight packing cubes that helps separate outfits and keep luggage organized."
+  },
+  {
+    "id": "prod-061",
+    "slug": "daily-gentle-cleanser",
+    "name": "Daily Gentle Cleanser",
+    "category": "Beauty & Personal Care",
+    "price": 18.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 1241,
+    "tags": [
+      "beauty-personal-care",
+      "cleanser",
+      "skincare",
+      "daily",
+      "gentle"
+    ],
+    "stock": 29,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A gentle daily facial cleanser made for a fresh-feeling routine without a heavy residue."
+  },
+  {
+    "id": "prod-062",
+    "slug": "cloud-moisture-cream",
+    "name": "Cloud Moisture Cream",
+    "category": "Beauty & Personal Care",
+    "price": 28.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 1378,
+    "tags": [
+      "beauty-personal-care",
+      "moisturizer",
+      "skincare",
+      "hydration"
+    ],
+    "stock": 46,
+    "images": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A nourishing face moisturizer for adding comfortable hydration to morning and evening routines."
+  },
+  {
+    "id": "prod-063",
+    "slug": "bright-c-vitamin-serum",
+    "name": "Bright C Vitamin Serum",
+    "category": "Beauty & Personal Care",
+    "price": 34.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 1515,
+    "tags": [
+      "beauty-personal-care",
+      "serum",
+      "vitamin-c",
+      "skincare",
+      "brightening"
+    ],
+    "stock": 63,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A lightweight vitamin C serum designed to layer easily into a simple brightening-focused skincare routine."
+  },
+  {
+    "id": "prod-064",
+    "slug": "daily-mineral-sunscreen-spf-50",
+    "name": "Daily Mineral Sunscreen SPF 50",
+    "category": "Beauty & Personal Care",
+    "price": 26.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 1652,
+    "tags": [
+      "beauty-personal-care",
+      "sunscreen",
+      "spf50",
+      "skincare",
+      "daily"
+    ],
+    "stock": 80,
+    "images": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A mineral sunscreen for daily facial sun protection that fits into a morning skincare routine."
+  },
+  {
+    "id": "prod-065",
+    "slug": "hydration-sheet-mask-set",
+    "name": "Hydration Sheet Mask Set",
+    "category": "Beauty & Personal Care",
+    "price": 16.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 1789,
+    "tags": [
+      "beauty-personal-care",
+      "face-mask",
+      "hydration",
+      "skincare",
+      "self-care"
+    ],
+    "stock": 97,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A multi-pack of hydrating sheet masks for an easy at-home self-care session."
+  },
+  {
+    "id": "prod-066",
+    "slug": "sheer-tinted-lip-balm",
+    "name": "Sheer Tinted Lip Balm",
+    "category": "Beauty & Personal Care",
+    "price": 12.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 1926,
+    "tags": [
+      "beauty-personal-care",
+      "lip-balm",
+      "tinted",
+      "makeup",
+      "moisturizing"
+    ],
+    "stock": 114,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "light",
+        "label": "Light"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "deep",
+        "label": "Deep"
+      }
+    ],
+    "description": "A moisturizing tinted lip balm that adds a subtle wash of color with an easy, everyday finish."
+  },
+  {
+    "id": "prod-067",
+    "slug": "satin-finish-lipstick",
+    "name": "Satin Finish Lipstick",
+    "category": "Beauty & Personal Care",
+    "price": 22.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 2063,
+    "tags": [
+      "beauty-personal-care",
+      "lipstick",
+      "makeup",
+      "satin",
+      "color"
+    ],
+    "stock": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "light",
+        "label": "Light"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "deep",
+        "label": "Deep"
+      }
+    ],
+    "description": "A smooth satin lipstick with rich color payoff for everyday looks and evening styling."
+  },
+  {
+    "id": "prod-068",
+    "slug": "length-lift-mascara",
+    "name": "Length & Lift Mascara",
+    "category": "Beauty & Personal Care",
+    "price": 19.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 2200,
+    "tags": [
+      "beauty-personal-care",
+      "mascara",
+      "lashes",
+      "makeup",
+      "eye"
+    ],
+    "stock": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "light",
+        "label": "Light"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "deep",
+        "label": "Deep"
+      }
+    ],
+    "description": "A buildable mascara that helps define lashes for a lifted look without a complicated routine."
+  },
+  {
+    "id": "prod-069",
+    "slug": "neutral-tone-eyeshadow-palette",
+    "name": "Neutral Tone Eyeshadow Palette",
+    "category": "Beauty & Personal Care",
+    "price": 32.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 2337,
+    "tags": [
+      "beauty-personal-care",
+      "eyeshadow",
+      "palette",
+      "makeup",
+      "neutral"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "light",
+        "label": "Light"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "deep",
+        "label": "Deep"
+      }
+    ],
+    "description": "A versatile palette of neutral shades for creating soft daytime looks or more defined evening makeup."
+  },
+  {
+    "id": "prod-070",
+    "slug": "amber-eau-de-parfum",
+    "name": "Amber Eau de Parfum",
+    "category": "Beauty & Personal Care",
+    "price": 76.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 94,
+    "tags": [
+      "beauty-personal-care",
+      "perfume",
+      "fragrance",
+      "amber",
+      "scent"
+    ],
+    "stock": 56,
+    "images": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "30ml",
+        "label": "30 ml"
+      },
+      {
+        "id": "50ml",
+        "label": "50 ml"
+      },
+      {
+        "id": "100ml",
+        "label": "100 ml"
+      }
+    ],
+    "description": "A warm amber fragrance with a layered scent profile suited to evenings and cooler seasons."
+  },
+  {
+    "id": "prod-071",
+    "slug": "silk-body-lotion",
+    "name": "Silk Body Lotion",
+    "category": "Beauty & Personal Care",
+    "price": 21.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 231,
+    "tags": [
+      "beauty-personal-care",
+      "body-lotion",
+      "bodycare",
+      "moisture"
+    ],
+    "stock": 73,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A daily body lotion with a smooth texture for comfortable moisture after showering."
+  },
+  {
+    "id": "prod-072",
+    "slug": "botanical-daily-shampoo",
+    "name": "Botanical Daily Shampoo",
+    "category": "Beauty & Personal Care",
+    "price": 17.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 368,
+    "tags": [
+      "beauty-personal-care",
+      "shampoo",
+      "haircare",
+      "cleansing"
+    ],
+    "stock": 90,
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A daily shampoo for cleansing the scalp and hair while leaving strands feeling light and refreshed."
+  },
+  {
+    "id": "prod-073",
+    "slug": "botanical-softening-conditioner",
+    "name": "Botanical Softening Conditioner",
+    "category": "Beauty & Personal Care",
+    "price": 18.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 505,
+    "tags": [
+      "beauty-personal-care",
+      "conditioner",
+      "haircare",
+      "detangling"
+    ],
+    "stock": 107,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A softening conditioner that helps detangle hair and improve manageability after washing."
+  },
+  {
+    "id": "prod-074",
+    "slug": "cedar-beard-oil",
+    "name": "Cedar Beard Oil",
+    "category": "Beauty & Personal Care",
+    "price": 23.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 642,
+    "tags": [
+      "beauty-personal-care",
+      "beard-oil",
+      "grooming",
+      "cedar",
+      "beard"
+    ],
+    "stock": 124,
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A conditioning beard oil with a warm cedar scent for a smoother-feeling beard and simple grooming routine."
+  },
+  {
+    "id": "prod-075",
+    "slug": "precision-detail-trimmer",
+    "name": "Precision Detail Trimmer",
+    "category": "Beauty & Personal Care",
+    "price": 39.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 779,
+    "tags": [
+      "beauty-personal-care",
+      "trimmer",
+      "grooming",
+      "personal-care",
+      "electric"
+    ],
+    "stock": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "travel",
+        "label": "Travel size"
+      },
+      {
+        "id": "standard",
+        "label": "Standard size"
+      },
+      {
+        "id": "large",
+        "label": "Large size"
+      }
+    ],
+    "description": "A compact electric trimmer for tidy detailing and convenient personal grooming at home or on the go."
+  },
+  {
+    "id": "prod-076",
+    "slug": "textured-throw-pillow",
+    "name": "Textured Throw Pillow",
+    "category": "Home & Living",
+    "price": 32.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 916,
+    "tags": [
+      "home-living",
+      "pillow",
+      "decor",
+      "living-room",
+      "textile"
+    ],
+    "stock": 32,
+    "images": [
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A textured accent pillow that adds warmth and a relaxed finish to sofas, beds, or reading chairs."
+  },
+  {
+    "id": "prod-077",
+    "slug": "arc-floor-lamp",
+    "name": "Arc Floor Lamp",
+    "category": "Home & Living",
+    "price": 129.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 1053,
+    "tags": [
+      "home-living",
+      "floor-lamp",
+      "lighting",
+      "living-room",
+      "modern"
+    ],
+    "stock": 49,
+    "images": [
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "brass",
+        "label": "Brass"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A sculptural floor lamp that brings focused ambient light to a reading nook or living-room corner."
+  },
+  {
+    "id": "prod-078",
+    "slug": "adjustable-desk-lamp",
+    "name": "Adjustable Desk Lamp",
+    "category": "Home & Living",
+    "price": 48.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1190,
+    "tags": [
+      "home-living",
+      "desk-lamp",
+      "lighting",
+      "office",
+      "task"
+    ],
+    "stock": 66,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "brass",
+        "label": "Brass"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A compact desk lamp with an adjustable head for focused light while reading, studying, or working."
+  },
+  {
+    "id": "prod-079",
+    "slug": "stoneware-ceramic-vase",
+    "name": "Stoneware Ceramic Vase",
+    "category": "Home & Living",
+    "price": 36.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1327,
+    "tags": [
+      "home-living",
+      "vase",
+      "ceramic",
+      "decor",
+      "tabletop"
+    ],
+    "stock": 83,
+    "images": [
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A matte stoneware vase with an understated shape for fresh stems, dried botanicals, or shelf styling."
+  },
+  {
+    "id": "prod-080",
+    "slug": "speckled-planter-pot",
+    "name": "Speckled Planter Pot",
+    "category": "Home & Living",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1464,
+    "tags": [
+      "home-living",
+      "planter",
+      "pot",
+      "plant",
+      "ceramic",
+      "decor"
+    ],
+    "stock": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A speckled planter pot that gives small indoor plants a simple, contemporary home."
+  },
+  {
+    "id": "prod-081",
+    "slug": "abstract-neutral-wall-art",
+    "name": "Abstract Neutral Wall Art",
+    "category": "Home & Living",
+    "price": 59.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 1601,
+    "tags": [
+      "home-living",
+      "wall-art",
+      "abstract",
+      "print",
+      "decor"
+    ],
+    "stock": 117,
+    "images": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A calm abstract print with neutral tones that complements modern living rooms, bedrooms, and workspaces."
+  },
+  {
+    "id": "prod-082",
+    "slug": "nesting-side-tables",
+    "name": "Nesting Side Tables",
+    "category": "Home & Living",
+    "price": 99.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 1738,
+    "tags": [
+      "home-living",
+      "side-table",
+      "nesting",
+      "furniture",
+      "living-room"
+    ],
+    "stock": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A pair of nesting side tables that provide flexible surface space without taking up more room than needed."
+  },
+  {
+    "id": "prod-083",
+    "slug": "lounge-accent-chair",
+    "name": "Lounge Accent Chair",
+    "category": "Home & Living",
+    "price": 249.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 1875,
+    "tags": [
+      "home-living",
+      "accent-chair",
+      "lounge",
+      "furniture",
+      "living-room"
+    ],
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A comfortable accent chair with a modern profile for a reading corner, bedroom, or living space."
+  },
+  {
+    "id": "prod-084",
+    "slug": "chunky-knit-throw-blanket",
+    "name": "Chunky Knit Throw Blanket",
+    "category": "Home & Living",
+    "price": 64.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 2012,
+    "tags": [
+      "home-living",
+      "throw",
+      "blanket",
+      "knit",
+      "cozy",
+      "bedroom"
+    ],
+    "stock": 42,
+    "images": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A soft knit throw blanket for layering over a sofa or bed during quiet evenings and cooler months."
+  },
+  {
+    "id": "prod-085",
+    "slug": "cotton-duvet-cover-set",
+    "name": "Cotton Duvet Cover Set",
+    "category": "Home & Living",
+    "price": 89.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 2149,
+    "tags": [
+      "home-living",
+      "duvet-cover",
+      "bedding",
+      "cotton",
+      "bedroom"
+    ],
+    "stock": 59,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A breathable cotton duvet cover set that refreshes the bedroom with a clean, understated look."
+  },
+  {
+    "id": "prod-086",
+    "slug": "round-wall-mirror",
+    "name": "Round Wall Mirror",
+    "category": "Home & Living",
+    "price": 74.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 2286,
+    "tags": [
+      "home-living",
+      "mirror",
+      "round",
+      "wall",
+      "decor"
+    ],
+    "stock": 76,
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "brass",
+        "label": "Brass"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A round wall mirror that reflects light and brings a simple decorative focal point to an entryway or bedroom."
+  },
+  {
+    "id": "prod-087",
+    "slug": "minimal-table-clock",
+    "name": "Minimal Table Clock",
+    "category": "Home & Living",
+    "price": 34.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 43,
+    "tags": [
+      "home-living",
+      "clock",
+      "tabletop",
+      "minimal",
+      "decor"
+    ],
+    "stock": 93,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "brass",
+        "label": "Brass"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A minimalist table clock for a bedside table, shelf, or desk with a clean, easy-to-read face."
+  },
+  {
+    "id": "prod-088",
+    "slug": "woven-storage-basket",
+    "name": "Woven Storage Basket",
+    "category": "Home & Living",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 180,
+    "tags": [
+      "home-living",
+      "storage",
+      "basket",
+      "woven",
+      "organization"
+    ],
+    "stock": 110,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A woven storage basket that helps keep blankets, toys, or everyday accessories tidy and accessible."
+  },
+  {
+    "id": "prod-089",
+    "slug": "cedar-fig-scented-candle",
+    "name": "Cedar & Fig Scented Candle",
+    "category": "Home & Living",
+    "price": 27.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 317,
+    "tags": [
+      "home-living",
+      "candle",
+      "fragrance",
+      "home",
+      "decor"
+    ],
+    "stock": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A scented candle with warm cedar and fig notes for adding a relaxed atmosphere to a living space."
+  },
+  {
+    "id": "prod-090",
+    "slug": "geometric-bookends",
+    "name": "Geometric Bookends",
+    "category": "Home & Living",
+    "price": 31.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 454,
+    "tags": [
+      "home-living",
+      "bookends",
+      "desk",
+      "shelf",
+      "organization"
+    ],
+    "stock": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "sand",
+        "label": "Sand"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      },
+      {
+        "id": "charcoal",
+        "label": "Charcoal"
+      }
+    ],
+    "description": "A pair of geometric bookends that keeps favorite reads upright while adding a subtle sculptural detail."
+  },
+  {
+    "id": "prod-091",
+    "slug": "insulated-steel-water-bottle",
+    "name": "Insulated Steel Water Bottle",
+    "category": "Kitchen & Dining",
+    "price": 28.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 591,
+    "tags": [
+      "kitchen-dining",
+      "water-bottle",
+      "insulated",
+      "reusable",
+      "hydration"
+    ],
+    "stock": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "cream",
+        "label": "Cream"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      }
+    ],
+    "description": "A reusable insulated bottle for carrying water to work, class, workouts, and weekend outings."
+  },
+  {
+    "id": "prod-092",
+    "slug": "thermal-travel-coffee-mug",
+    "name": "Thermal Travel Coffee Mug",
+    "category": "Kitchen & Dining",
+    "price": 25.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 728,
+    "tags": [
+      "kitchen-dining",
+      "travel-mug",
+      "coffee",
+      "insulated",
+      "drinkware"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "cream",
+        "label": "Cream"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      }
+    ],
+    "description": "A travel mug designed to keep coffee or tea close at hand during a commute or busy morning."
+  },
+  {
+    "id": "prod-093",
+    "slug": "hand-glazed-stoneware-mug",
+    "name": "Hand-Glazed Stoneware Mug",
+    "category": "Kitchen & Dining",
+    "price": 18.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 865,
+    "tags": [
+      "kitchen-dining",
+      "mug",
+      "stoneware",
+      "coffee",
+      "tea"
+    ],
+    "stock": 69,
+    "images": [
+      "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "cream",
+        "label": "Cream"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      }
+    ],
+    "description": "A hand-glazed stoneware mug with a comfortable handle for coffee, tea, or a slow weekend morning."
+  },
+  {
+    "id": "prod-094",
+    "slug": "pro-edge-chef-knife",
+    "name": "Pro Edge Chef Knife",
+    "category": "Kitchen & Dining",
+    "price": 64.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 1002,
+    "tags": [
+      "kitchen-dining",
+      "chef-knife",
+      "kitchen",
+      "cooking",
+      "prep"
+    ],
+    "stock": 86,
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A balanced chef knife for everyday slicing, chopping, and meal preparation in a home kitchen."
+  },
+  {
+    "id": "prod-095",
+    "slug": "acacia-wood-cutting-board",
+    "name": "Acacia Wood Cutting Board",
+    "category": "Kitchen & Dining",
+    "price": 34.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 1139,
+    "tags": [
+      "kitchen-dining",
+      "cutting-board",
+      "acacia",
+      "kitchen",
+      "serving"
+    ],
+    "stock": 103,
+    "images": [
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A durable acacia cutting board for food preparation and serving cheeses, breads, or small bites."
+  },
+  {
+    "id": "prod-096",
+    "slug": "nonstick-cookware-set",
+    "name": "Nonstick Cookware Set",
+    "category": "Kitchen & Dining",
+    "price": 149.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 1276,
+    "tags": [
+      "kitchen-dining",
+      "cookware",
+      "nonstick",
+      "kitchen",
+      "pots-pans"
+    ],
+    "stock": 120,
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A coordinated nonstick cookware set for practical everyday cooking and easier cleanup."
+  },
+  {
+    "id": "prod-097",
+    "slug": "cast-iron-skillet",
+    "name": "Cast Iron Skillet",
+    "category": "Kitchen & Dining",
+    "price": 42.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 1413,
+    "tags": [
+      "kitchen-dining",
+      "skillet",
+      "cast-iron",
+      "cooking",
+      "kitchen"
+    ],
+    "stock": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A versatile cast iron skillet for searing, sautéing, roasting, and serving hearty meals."
+  },
+  {
+    "id": "prod-098",
+    "slug": "ceramic-baking-dish",
+    "name": "Ceramic Baking Dish",
+    "category": "Kitchen & Dining",
+    "price": 36.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1550,
+    "tags": [
+      "kitchen-dining",
+      "baking-dish",
+      "ceramic",
+      "oven",
+      "kitchen"
+    ],
+    "stock": 28,
+    "images": [
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A ceramic baking dish for casseroles, roasted vegetables, and oven-to-table family meals."
+  },
+  {
+    "id": "prod-099",
+    "slug": "high-speed-blender",
+    "name": "High-Speed Blender",
+    "category": "Kitchen & Dining",
+    "price": 119.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1687,
+    "tags": [
+      "kitchen-dining",
+      "blender",
+      "appliance",
+      "smoothies",
+      "kitchen"
+    ],
+    "stock": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A countertop blender for smoothies, sauces, and quick food preparation in a busy kitchen."
+  },
+  {
+    "id": "prod-100",
+    "slug": "drip-coffee-maker",
+    "name": "Drip Coffee Maker",
+    "category": "Kitchen & Dining",
+    "price": 79.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1824,
+    "tags": [
+      "kitchen-dining",
+      "coffee-maker",
+      "appliance",
+      "coffee",
+      "breakfast"
+    ],
+    "stock": 62,
+    "images": [
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A straightforward drip coffee maker for preparing multiple cups of coffee at home or in a shared workspace."
+  },
+  {
+    "id": "prod-101",
+    "slug": "quick-boil-electric-kettle",
+    "name": "Quick-Boil Electric Kettle",
+    "category": "Kitchen & Dining",
+    "price": 49.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 1961,
+    "tags": [
+      "kitchen-dining",
+      "kettle",
+      "appliance",
+      "tea",
+      "hot-water"
+    ],
+    "stock": 79,
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "cream",
+        "label": "Cream"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "sage",
+        "label": "Sage"
+      }
+    ],
+    "description": "An electric kettle for heating water for tea, pour-over coffee, and quick kitchen tasks."
+  },
+  {
+    "id": "prod-102",
+    "slug": "everyday-dinner-plate-set",
+    "name": "Everyday Dinner Plate Set",
+    "category": "Kitchen & Dining",
+    "price": 54.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 2098,
+    "tags": [
+      "kitchen-dining",
+      "plates",
+      "dinnerware",
+      "ceramic",
+      "dining"
+    ],
+    "stock": 96,
+    "images": [
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A coordinated dinner plate set with a simple profile for daily meals and casual entertaining."
+  },
+  {
+    "id": "prod-103",
+    "slug": "borosilicate-glass-tumbler-set",
+    "name": "Borosilicate Glass Tumbler Set",
+    "category": "Kitchen & Dining",
+    "price": 32.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 2235,
+    "tags": [
+      "kitchen-dining",
+      "glassware",
+      "tumblers",
+      "drinkware",
+      "dining"
+    ],
+    "stock": 113,
+    "images": [
+      "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A set of clear borosilicate tumblers for serving water, juice, iced coffee, and other cold drinks."
+  },
+  {
+    "id": "prod-104",
+    "slug": "digital-kitchen-scale",
+    "name": "Digital Kitchen Scale",
+    "category": "Kitchen & Dining",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 2372,
+    "tags": [
+      "kitchen-dining",
+      "kitchen-scale",
+      "digital",
+      "baking",
+      "measuring"
+    ],
+    "stock": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "A compact digital kitchen scale for measuring ingredients accurately while cooking or baking."
+  },
+  {
+    "id": "prod-105",
+    "slug": "glass-lunch-container-set",
+    "name": "Glass Lunch Container Set",
+    "category": "Kitchen & Dining",
+    "price": 39.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 129,
+    "tags": [
+      "kitchen-dining",
+      "lunch-box",
+      "food-storage",
+      "glass",
+      "meal-prep"
+    ],
+    "stock": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1515003197210-e0cd7184f8b5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "single",
+        "label": "Single item"
+      },
+      {
+        "id": "2-piece",
+        "label": "2-piece set"
+      },
+      {
+        "id": "4-piece",
+        "label": "4-piece set"
+      }
+    ],
+    "description": "Reusable glass food containers for packing lunches, storing leftovers, and keeping meal prep organized."
+  },
+  {
+    "id": "prod-106",
+    "slug": "gripflow-yoga-mat",
+    "name": "GripFlow Yoga Mat",
+    "category": "Fitness & Outdoors",
+    "price": 45.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 266,
+    "tags": [
+      "fitness-outdoors",
+      "yoga-mat",
+      "fitness",
+      "yoga",
+      "stretching"
+    ],
+    "stock": 38,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A cushioned yoga mat with a grippy surface for stretching, yoga flows, and bodyweight sessions."
+  },
+  {
+    "id": "prod-107",
+    "slug": "adjustable-dumbbell-pair",
+    "name": "Adjustable Dumbbell Pair",
+    "category": "Fitness & Outdoors",
+    "price": 189.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 403,
+    "tags": [
+      "fitness-outdoors",
+      "dumbbells",
+      "strength-training",
+      "home-gym"
+    ],
+    "stock": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1546483875-ad9014c88eba?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "Space-saving adjustable dumbbells for building a flexible strength-training setup at home."
+  },
+  {
+    "id": "prod-108",
+    "slug": "flex-resistance-band-set",
+    "name": "Flex Resistance Band Set",
+    "category": "Fitness & Outdoors",
+    "price": 22.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 540,
+    "tags": [
+      "fitness-outdoors",
+      "resistance-bands",
+      "fitness",
+      "mobility",
+      "workout"
+    ],
+    "stock": 72,
+    "images": [
+      "https://images.unsplash.com/photo-1546483875-ad9014c88eba?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A set of resistance bands for warmups, mobility drills, and strength exercises at home or while travelling."
+  },
+  {
+    "id": "prod-109",
+    "slug": "recover-foam-roller",
+    "name": "Recover Foam Roller",
+    "category": "Fitness & Outdoors",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 677,
+    "tags": [
+      "fitness-outdoors",
+      "foam-roller",
+      "recovery",
+      "fitness",
+      "mobility"
+    ],
+    "stock": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A firm foam roller for warmup routines, cooldowns, and post-workout muscle-care sessions."
+  },
+  {
+    "id": "prod-110",
+    "slug": "mixpro-shaker-bottle",
+    "name": "MixPro Shaker Bottle",
+    "category": "Fitness & Outdoors",
+    "price": 16.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 814,
+    "tags": [
+      "fitness-outdoors",
+      "shaker-bottle",
+      "fitness",
+      "hydration",
+      "gym"
+    ],
+    "stock": 106,
+    "images": [
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A leak-resistant shaker bottle for mixing drinks and carrying hydration to the gym or sports field."
+  },
+  {
+    "id": "prod-111",
+    "slug": "pace-running-belt",
+    "name": "Pace Running Belt",
+    "category": "Fitness & Outdoors",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 951,
+    "tags": [
+      "fitness-outdoors",
+      "running-belt",
+      "running",
+      "outdoor",
+      "storage"
+    ],
+    "stock": 123,
+    "images": [
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A lightweight running belt for carrying keys, cards, and small essentials without bulky pockets."
+  },
+  {
+    "id": "prod-112",
+    "slug": "alpine-day-hike-backpack",
+    "name": "Alpine Day-Hike Backpack",
+    "category": "Fitness & Outdoors",
+    "price": 84.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 1088,
+    "tags": [
+      "fitness-outdoors",
+      "hiking-backpack",
+      "hiking",
+      "outdoor",
+      "daypack"
+    ],
+    "stock": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "one-person",
+        "label": "Compact"
+      },
+      {
+        "id": "standard",
+        "label": "Standard"
+      },
+      {
+        "id": "extended",
+        "label": "Extended"
+      }
+    ],
+    "description": "A trail-ready daypack with practical storage for water, layers, snacks, and short outdoor adventures."
+  },
+  {
+    "id": "prod-113",
+    "slug": "carbon-trekking-poles",
+    "name": "Carbon Trekking Poles",
+    "category": "Fitness & Outdoors",
+    "price": 69.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 1225,
+    "tags": [
+      "fitness-outdoors",
+      "trekking-poles",
+      "hiking",
+      "outdoor",
+      "support"
+    ],
+    "stock": 31,
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "Adjustable trekking poles that add support and rhythm for hikes on varied terrain."
+  },
+  {
+    "id": "prod-114",
+    "slug": "rechargeable-camp-lantern",
+    "name": "Rechargeable Camp Lantern",
+    "category": "Fitness & Outdoors",
+    "price": 35.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 1362,
+    "tags": [
+      "fitness-outdoors",
+      "camp-lantern",
+      "camping",
+      "rechargeable",
+      "outdoor"
+    ],
+    "stock": 48,
+    "images": [
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A rechargeable lantern for lighting a campsite, tent, or emergency kit after dark."
+  },
+  {
+    "id": "prod-115",
+    "slug": "compact-sleeping-bag",
+    "name": "Compact Sleeping Bag",
+    "category": "Fitness & Outdoors",
+    "price": 79.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 1499,
+    "tags": [
+      "fitness-outdoors",
+      "sleeping-bag",
+      "camping",
+      "travel",
+      "outdoor"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "one-person",
+        "label": "Compact"
+      },
+      {
+        "id": "standard",
+        "label": "Standard"
+      },
+      {
+        "id": "extended",
+        "label": "Extended"
+      }
+    ],
+    "description": "A packable sleeping bag for weekend camping and overnight outdoor trips in mild conditions."
+  },
+  {
+    "id": "prod-116",
+    "slug": "two-person-trail-tent",
+    "name": "Two-Person Trail Tent",
+    "category": "Fitness & Outdoors",
+    "price": 159.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 1636,
+    "tags": [
+      "fitness-outdoors",
+      "tent",
+      "camping",
+      "two-person",
+      "hiking"
+    ],
+    "stock": 82,
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "one-person",
+        "label": "Compact"
+      },
+      {
+        "id": "standard",
+        "label": "Standard"
+      },
+      {
+        "id": "extended",
+        "label": "Extended"
+      }
+    ],
+    "description": "A lightweight two-person tent for weekend campsites and sheltered outdoor overnight stays."
+  },
+  {
+    "id": "prod-117",
+    "slug": "packable-rain-jacket",
+    "name": "Packable Rain Jacket",
+    "category": "Fitness & Outdoors",
+    "price": 89.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 1773,
+    "tags": [
+      "fitness-outdoors",
+      "rain-jacket",
+      "outdoor",
+      "waterproof",
+      "packable"
+    ],
+    "stock": 99,
+    "images": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A lightweight rain jacket that packs down for changing weather on hikes, trips, and daily commutes."
+  },
+  {
+    "id": "prod-118",
+    "slug": "gps-training-watch",
+    "name": "GPS Training Watch",
+    "category": "Fitness & Outdoors",
+    "price": 249.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1910,
+    "tags": [
+      "fitness-outdoors",
+      "gps-watch",
+      "sports",
+      "fitness",
+      "running"
+    ],
+    "stock": 116,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A sports watch with GPS-focused training features for tracking runs, rides, and outdoor activity."
+  },
+  {
+    "id": "prod-119",
+    "slug": "ventilated-cycling-helmet",
+    "name": "Ventilated Cycling Helmet",
+    "category": "Fitness & Outdoors",
+    "price": 74.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 2047,
+    "tags": [
+      "fitness-outdoors",
+      "cycling-helmet",
+      "bike",
+      "safety",
+      "outdoor"
+    ],
+    "stock": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "A ventilated cycling helmet designed for comfortable protection on everyday rides and weekend routes."
+  },
+  {
+    "id": "prod-120",
+    "slug": "insulated-cooler-tote",
+    "name": "Insulated Cooler Tote",
+    "category": "Fitness & Outdoors",
+    "price": 42.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 2184,
+    "tags": [
+      "fitness-outdoors",
+      "cooler-bag",
+      "picnic",
+      "insulated",
+      "outdoor"
+    ],
+    "stock": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "small",
+        "label": "Small"
+      },
+      {
+        "id": "medium",
+        "label": "Medium"
+      },
+      {
+        "id": "large",
+        "label": "Large"
+      }
+    ],
+    "description": "An insulated cooler tote for keeping snacks and drinks handy on picnics, day trips, and outdoor gatherings."
+  },
+  {
+    "id": "prod-121",
+    "slug": "hardcover-daily-journal",
+    "name": "Hardcover Daily Journal",
+    "category": "Books & Office",
+    "price": 19.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 2321,
+    "tags": [
+      "books-office",
+      "journal",
+      "notebook",
+      "writing",
+      "stationery"
+    ],
+    "stock": 41,
+    "images": [
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "a5",
+        "label": "A5"
+      },
+      {
+        "id": "a4",
+        "label": "A4"
+      },
+      {
+        "id": "letter",
+        "label": "Letter"
+      }
+    ],
+    "description": "A hardcover journal with plenty of space for reflections, meeting notes, and daily lists."
+  },
+  {
+    "id": "prod-122",
+    "slug": "undated-weekly-planner",
+    "name": "Undated Weekly Planner",
+    "category": "Books & Office",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 78,
+    "tags": [
+      "books-office",
+      "planner",
+      "productivity",
+      "stationery",
+      "weekly"
+    ],
+    "stock": 58,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "a5",
+        "label": "A5"
+      },
+      {
+        "id": "a4",
+        "label": "A4"
+      },
+      {
+        "id": "letter",
+        "label": "Letter"
+      }
+    ],
+    "description": "An undated weekly planner that lets you organize goals and appointments at your own pace."
+  },
+  {
+    "id": "prod-123",
+    "slug": "classic-fountain-pen-set",
+    "name": "Classic Fountain Pen Set",
+    "category": "Books & Office",
+    "price": 39.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 215,
+    "tags": [
+      "books-office",
+      "fountain-pen",
+      "writing",
+      "stationery",
+      "gift"
+    ],
+    "stock": 75,
+    "images": [
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A fountain pen set for deliberate note-taking, journaling, and handwritten correspondence."
+  },
+  {
+    "id": "prod-124",
+    "slug": "modular-desk-organizer",
+    "name": "Modular Desk Organizer",
+    "category": "Books & Office",
+    "price": 32.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 352,
+    "tags": [
+      "books-office",
+      "desk-organizer",
+      "office",
+      "storage",
+      "productivity"
+    ],
+    "stock": 92,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A modular desk organizer that creates tidy places for pens, notes, and small work essentials."
+  },
+  {
+    "id": "prod-125",
+    "slug": "premium-notebook-bundle",
+    "name": "Premium Notebook Bundle",
+    "category": "Books & Office",
+    "price": 27.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 489,
+    "tags": [
+      "books-office",
+      "notebooks",
+      "office",
+      "school",
+      "writing"
+    ],
+    "stock": 109,
+    "images": [
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "a5",
+        "label": "A5"
+      },
+      {
+        "id": "a4",
+        "label": "A4"
+      },
+      {
+        "id": "letter",
+        "label": "Letter"
+      }
+    ],
+    "description": "A bundle of everyday notebooks for project notes, lists, study sessions, and personal writing."
+  },
+  {
+    "id": "prod-126",
+    "slug": "artist-sketchbook",
+    "name": "Artist Sketchbook",
+    "category": "Books & Office",
+    "price": 21.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 626,
+    "tags": [
+      "books-office",
+      "sketchbook",
+      "art",
+      "drawing",
+      "creative"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "a5",
+        "label": "A5"
+      },
+      {
+        "id": "a4",
+        "label": "A4"
+      },
+      {
+        "id": "letter",
+        "label": "Letter"
+      }
+    ],
+    "description": "A versatile sketchbook for pencil studies, quick illustrations, and creative practice on the go."
+  },
+  {
+    "id": "prod-127",
+    "slug": "adjustable-book-stand",
+    "name": "Adjustable Book Stand",
+    "category": "Books & Office",
+    "price": 26.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 763,
+    "tags": [
+      "books-office",
+      "book-stand",
+      "reading",
+      "study",
+      "desk"
+    ],
+    "stock": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "An adjustable stand that holds books or documents open for reading, studying, and recipe use."
+  },
+  {
+    "id": "prod-128",
+    "slug": "clip-on-reading-light",
+    "name": "Clip-On Reading Light",
+    "category": "Books & Office",
+    "price": 18.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 900,
+    "tags": [
+      "books-office",
+      "reading-light",
+      "book",
+      "travel",
+      "lighting"
+    ],
+    "stock": 34,
+    "images": [
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A portable clip-on reading light for bedtime reading, travel, and focused low-light study."
+  },
+  {
+    "id": "prod-129",
+    "slug": "a4-document-folder",
+    "name": "A4 Document Folder",
+    "category": "Books & Office",
+    "price": 14.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1037,
+    "tags": [
+      "books-office",
+      "document-folder",
+      "office",
+      "organization",
+      "paper"
+    ],
+    "stock": 51,
+    "images": [
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A lightweight document folder for keeping loose papers, printouts, and important notes together."
+  },
+  {
+    "id": "prod-130",
+    "slug": "mechanical-pencil-set",
+    "name": "Mechanical Pencil Set",
+    "category": "Books & Office",
+    "price": 16.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1174,
+    "tags": [
+      "books-office",
+      "mechanical-pencil",
+      "stationery",
+      "drawing"
+    ],
+    "stock": 68,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A set of mechanical pencils for clean, consistent lines in note-taking, drafting, and sketching."
+  },
+  {
+    "id": "prod-131",
+    "slug": "watercolor-paper-pad",
+    "name": "Watercolor Paper Pad",
+    "category": "Books & Office",
+    "price": 23.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 1311,
+    "tags": [
+      "books-office",
+      "watercolor",
+      "paper",
+      "art",
+      "painting"
+    ],
+    "stock": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "a5",
+        "label": "A5"
+      },
+      {
+        "id": "a4",
+        "label": "A4"
+      },
+      {
+        "id": "letter",
+        "label": "Letter"
+      }
+    ],
+    "description": "A textured paper pad made for watercolor studies, washes, and mixed-media experiments."
+  },
+  {
+    "id": "prod-132",
+    "slug": "cork-bulletin-board",
+    "name": "Cork Bulletin Board",
+    "category": "Books & Office",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 1448,
+    "tags": [
+      "books-office",
+      "bulletin-board",
+      "cork",
+      "office",
+      "organization"
+    ],
+    "stock": 102,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A cork board for pinning reminders, reference material, and snapshots above a desk or in a studio."
+  },
+  {
+    "id": "prod-133",
+    "slug": "ergonomic-footrest",
+    "name": "Ergonomic Footrest",
+    "category": "Books & Office",
+    "price": 44.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 1585,
+    "tags": [
+      "books-office",
+      "footrest",
+      "ergonomic",
+      "office",
+      "comfort"
+    ],
+    "stock": 119,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A supportive footrest that helps create a more comfortable setup during long seated work sessions."
+  },
+  {
+    "id": "prod-134",
+    "slug": "wood-monitor-riser",
+    "name": "Wood Monitor Riser",
+    "category": "Books & Office",
+    "price": 47.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 1722,
+    "tags": [
+      "books-office",
+      "monitor-riser",
+      "desk",
+      "office",
+      "organization"
+    ],
+    "stock": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A compact monitor riser that adds desk storage and raises a screen to a more comfortable viewing height."
+  },
+  {
+    "id": "prod-135",
+    "slug": "recipe-reading-book-stand",
+    "name": "Recipe & Reading Book Stand",
+    "category": "Books & Office",
+    "price": 28.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 1859,
+    "tags": [
+      "books-office",
+      "book-stand",
+      "reading",
+      "cookbook",
+      "study"
+    ],
+    "stock": 27,
+    "images": [
+      "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "natural",
+        "label": "Natural"
+      },
+      {
+        "id": "black",
+        "label": "Black"
+      },
+      {
+        "id": "white",
+        "label": "White"
+      }
+    ],
+    "description": "A stable book stand for keeping cookbooks, textbooks, or reference guides open and easy to view."
+  },
+  {
+    "id": "prod-136",
+    "slug": "natural-wooden-building-blocks",
+    "name": "Natural Wooden Building Blocks",
+    "category": "Toys & Games",
+    "price": 34.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 1996,
+    "tags": [
+      "toys-games",
+      "building-blocks",
+      "wooden",
+      "creative",
+      "play"
+    ],
+    "stock": 44,
+    "images": [
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1558877385-81a1e1f761c9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A set of natural wooden blocks for open-ended building, imaginative play, and simple construction challenges."
+  },
+  {
+    "id": "prod-137",
+    "slug": "cuddly-plush-bear",
+    "name": "Cuddly Plush Bear",
+    "category": "Toys & Games",
+    "price": 22.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 2133,
+    "tags": [
+      "toys-games",
+      "plush-bear",
+      "stuffed-toy",
+      "gift",
+      "soft"
+    ],
+    "stock": 61,
+    "images": [
+      "https://images.unsplash.com/photo-1558877385-81a1e1f761c9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599623560574-39d485900c95?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A soft plush bear made for comforting hugs, bedroom shelves, and thoughtful gifting."
+  },
+  {
+    "id": "prod-138",
+    "slug": "wooden-shape-puzzle-set",
+    "name": "Wooden Shape Puzzle Set",
+    "category": "Toys & Games",
+    "price": 19.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 2270,
+    "tags": [
+      "toys-games",
+      "puzzle",
+      "wooden",
+      "learning",
+      "shapes"
+    ],
+    "stock": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A colorful wooden shape puzzle set that encourages matching, observation, and hands-on problem solving."
+  },
+  {
+    "id": "prod-139",
+    "slug": "family-strategy-board-game",
+    "name": "Family Strategy Board Game",
+    "category": "Toys & Games",
+    "price": 36.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 27,
+    "tags": [
+      "toys-games",
+      "board-game",
+      "strategy",
+      "family",
+      "tabletop"
+    ],
+    "stock": 95,
+    "images": [
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A family-friendly strategy board game for shared game nights and replayable tabletop challenges."
+  },
+  {
+    "id": "prod-140",
+    "slug": "classic-wooden-chess-set",
+    "name": "Classic Wooden Chess Set",
+    "category": "Toys & Games",
+    "price": 42.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 164,
+    "tags": [
+      "toys-games",
+      "chess",
+      "board-game",
+      "strategy",
+      "wooden"
+    ],
+    "stock": 112,
+    "images": [
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599623560574-39d485900c95?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A classic wooden chess set for learning the game, practicing tactics, and hosting friendly matches."
+  },
+  {
+    "id": "prod-141",
+    "slug": "remote-control-rally-car",
+    "name": "Remote Control Rally Car",
+    "category": "Toys & Games",
+    "price": 49.0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviews": 301,
+    "tags": [
+      "toys-games",
+      "remote-control-car",
+      "toy",
+      "racing",
+      "vehicle"
+    ],
+    "stock": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1558877385-81a1e1f761c9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A remote control rally car for indoor racing and supervised outdoor play on smooth surfaces."
+  },
+  {
+    "id": "prod-142",
+    "slug": "adventure-action-figure",
+    "name": "Adventure Action Figure",
+    "category": "Toys & Games",
+    "price": 18.0,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviews": 438,
+    "tags": [
+      "toys-games",
+      "action-figure",
+      "toy",
+      "collectible",
+      "imaginative"
+    ],
+    "stock": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1558877385-81a1e1f761c9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599623560574-39d485900c95?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A poseable adventure figure for imaginative storytelling, display, and creative play scenes."
+  },
+  {
+    "id": "prod-143",
+    "slug": "dollhouse-furniture-kit",
+    "name": "Dollhouse Furniture Kit",
+    "category": "Toys & Games",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.1,
+    "reviews": 575,
+    "tags": [
+      "toys-games",
+      "dollhouse",
+      "miniature",
+      "furniture",
+      "pretend-play"
+    ],
+    "stock": 37,
+    "images": [
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A miniature furniture kit for decorating a dollhouse and creating detailed pretend-play spaces."
+  },
+  {
+    "id": "prod-144",
+    "slug": "creative-kids-art-kit",
+    "name": "Creative Kids Art Kit",
+    "category": "Toys & Games",
+    "price": 27.0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviews": 712,
+    "tags": [
+      "toys-games",
+      "art-kit",
+      "kids",
+      "creativity",
+      "drawing"
+    ],
+    "stock": 54,
+    "images": [
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1558877385-81a1e1f761c9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599623560574-39d485900c95?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A starter art kit with creative supplies for drawing, coloring, and making small projects at home."
+  },
+  {
+    "id": "prod-145",
+    "slug": "junior-science-explorer-kit",
+    "name": "Junior Science Explorer Kit",
+    "category": "Toys & Games",
+    "price": 39.0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviews": 849,
+    "tags": [
+      "toys-games",
+      "science-kit",
+      "education",
+      "experiments",
+      "learning"
+    ],
+    "stock": 71,
+    "images": [
+      "https://images.unsplash.com/photo-1599623560574-39d485900c95?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A hands-on science kit for trying simple experiments and encouraging curiosity about how things work."
+  },
+  {
+    "id": "prod-146",
+    "slug": "classic-playing-card-deck",
+    "name": "Classic Playing Card Deck",
+    "category": "Toys & Games",
+    "price": 8.0,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviews": 986,
+    "tags": [
+      "toys-games",
+      "playing-cards",
+      "card-game",
+      "travel",
+      "tabletop"
+    ],
+    "stock": 88,
+    "images": [
+      "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1599623560574-39d485900c95?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A standard playing-card deck for classic card games, travel entertainment, and casual gatherings."
+  },
+  {
+    "id": "prod-147",
+    "slug": "matchday-soccer-ball",
+    "name": "MatchDay Soccer Ball",
+    "category": "Toys & Games",
+    "price": 24.0,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviews": 1123,
+    "tags": [
+      "toys-games",
+      "soccer-ball",
+      "sports",
+      "outdoor",
+      "practice"
+    ],
+    "stock": 105,
+    "images": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1546483875-ad9014c88eba?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "size-5",
+        "label": "Size 5"
+      },
+      {
+        "id": "size-6",
+        "label": "Size 6"
+      },
+      {
+        "id": "size-7",
+        "label": "Size 7"
+      }
+    ],
+    "description": "A durable soccer ball for kickabouts, practice drills, and casual matches at the park."
+  },
+  {
+    "id": "prod-148",
+    "slug": "streetcourt-basketball",
+    "name": "StreetCourt Basketball",
+    "category": "Toys & Games",
+    "price": 29.0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviews": 1260,
+    "tags": [
+      "toys-games",
+      "basketball",
+      "sports",
+      "court",
+      "training"
+    ],
+    "stock": 122,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "size-5",
+        "label": "Size 5"
+      },
+      {
+        "id": "size-6",
+        "label": "Size 6"
+      },
+      {
+        "id": "size-7",
+        "label": "Size 7"
+      }
+    ],
+    "description": "A grippy basketball suited to casual shooting practice and pickup games on outdoor courts."
+  },
+  {
+    "id": "prod-149",
+    "slug": "street-cruiser-skateboard",
+    "name": "Street Cruiser Skateboard",
+    "category": "Toys & Games",
+    "price": 69.0,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviews": 1397,
+    "tags": [
+      "toys-games",
+      "skateboard",
+      "cruiser",
+      "outdoor",
+      "ride"
+    ],
+    "stock": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A compact cruiser skateboard for smooth neighborhood rides and getting around short distances."
+  },
+  {
+    "id": "prod-150",
+    "slug": "first-chord-ukulele",
+    "name": "First Chord Ukulele",
+    "category": "Toys & Games",
+    "price": 44.0,
+    "currency": "USD",
+    "rating": 4.0,
+    "reviews": 1534,
+    "tags": [
+      "toys-games",
+      "ukulele",
+      "music",
+      "beginner",
+      "instrument"
+    ],
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "variants": [
+      {
+        "id": "starter",
+        "label": "Starter set"
+      },
+      {
+        "id": "standard",
+        "label": "Standard set"
+      },
+      {
+        "id": "deluxe",
+        "label": "Deluxe set"
+      }
+    ],
+    "description": "A beginner-friendly ukulele for learning simple chords, strumming patterns, and first songs."
+  }
+]

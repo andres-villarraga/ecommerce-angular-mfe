@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+  --font-heading: "Lora", serif;
+  --font-body: "DM Sans", sans-serif;
+
+  --font-size-h1: 2.25rem;
+  --font-size-h1: 1.875rem;
+
+  --font-size-body: 1rem;
+  --font-size-small: 0.875rem;
+
+  --line-height-body: 1.5;
+  --line-height-heading: 1.25;
+
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--font-size-body);
+  line-height: var(--line-height-body);
+
+  color: var(--ecom-color-text, #2b1d14);
+  background-color: var(--ecom-color-bg, #f6f1e9);
+}
+
+h1, h2, h3 {
+  font-weight: 500;
+  font-family: var(--font-heading);
+  line-height: var(--line-height-heading);
+}
+
+button, input, select, textarea {
+  font-family: var(--font-body);
+}
+
+.cursorPointer {
+  cursor: pointer;
+}

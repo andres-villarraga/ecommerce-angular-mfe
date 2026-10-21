@@ -1,1 +1,15 @@
-<p>catalog-page-component works!</p>
+
+<ecom-banner></ecom-banner>
+<aside>
+  // Filters
+</aside>
+<main>
+  <article class="product-list-container">
+    @if(isLoading()) {
+      <h1>There are no products</h1>
+    }
+    @for(product of productList(); track product.id; let i = $index) {
+      <ecom-product [product]="product" [priority]="i < 20"></ecom-product>
+    }
+  </article>
+</main>
